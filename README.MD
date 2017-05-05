@@ -18,4 +18,4 @@ either copy your files to
  ./install.sh
  ```
  
- for more information on how to install go to [here](https://wiki.gnome.org/Projects/GtkSourceView/StyleSchemes)
+ for more information on how to install themes go to [here](https://wiki.gnome.org/Projects/GtkSourceView/StyleSchemes)
