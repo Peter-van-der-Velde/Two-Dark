@@ -8,12 +8,16 @@ An Atom One Dark based Theme for Gedit, Scribes, Code, Builder.
 
 ### Installation
 
-either copy your files to 
+Either copy your files to 
 ```
  ~/.local/share/gtksourceview-3.0/styles/
  ```
+ or for gtksourceview to 
+ ```
+ ~/.local/share/gtksourceview-4/styles/
+ ```
  
- or run install.sh
+ Another option is to use install.sh
  ```
  ./install.sh
  ```
