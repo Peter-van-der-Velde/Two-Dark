@@ -12,7 +12,7 @@ Either copy your files to
 ```
  ~/.local/share/gtksourceview-3.0/styles/
  ```
- or for gtksourceview to 
+ or for gtksourceview 4 to 
  ```
  ~/.local/share/gtksourceview-4/styles/
  ```
